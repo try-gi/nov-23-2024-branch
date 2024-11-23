@@ -1,1 +1,2 @@
-Today is Saturday
+Today is Saturday. 
+New activity added.
